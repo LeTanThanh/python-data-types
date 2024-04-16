@@ -5,4 +5,5 @@
 - Run scripts
 ```
 python integer.py
+python float.py
 ```
