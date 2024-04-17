@@ -8,4 +8,5 @@ python integer.py
 python float.py
 python complex.py
 python str.py
+python boolean.py
 ```
